@@ -18,7 +18,7 @@
 <p align="center">
 <img width="650" height="50" alt="image" src="https://github.com/user-attachments/assets/6451909c-b374-43a3-a987-f98719d8c91b" />
 <p align="center">
-<img width="540" height="86" <img width="1280" height="180" alt="image" src="https://github.com/user-attachments/assets/5b448b5c-914f-4505-9b07-637345bd5a8c" />
+
 
 
 
@@ -27,7 +27,7 @@
 <img width="249" height="511" <img width="473" height="328" alt="gfhtj" src="https://github.com/user-attachments/assets/03f5e8e7-ce79-4591-85d1-e9218cf95bc9" />
 <img width="249" height="511" <img width="473" height="328" alt="THISSS" src="https://github.com/user-attachments/assets/72dca9dd-b964-436b-b96d-81db8913e1fe" />
 
-
+<img width="670" height="86" <img width="1280" height="180" alt="image" src="https://github.com/user-attachments/assets/5b448b5c-914f-4505-9b07-637345bd5a8c" />
 
 
 
