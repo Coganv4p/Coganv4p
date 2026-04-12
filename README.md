@@ -27,7 +27,7 @@
 <img width="249" height="511" <img width="473" height="328" alt="gfhtj" src="https://github.com/user-attachments/assets/03f5e8e7-ce79-4591-85d1-e9218cf95bc9" />
 <img width="249" height="511" <img width="473" height="328" alt="THISSS" src="https://github.com/user-attachments/assets/72dca9dd-b964-436b-b96d-81db8913e1fe" />
 
-[ <img width="1280" height="180" alt="image" src="https://github.com/user-attachments/assets/5b448b5c-914f-4505-9b07-637345bd5a8c" />](https://64.media.tumblr.com/ee04cdd50e29bae11e59492b7950e6a8/97395b8a0d349f06-7f/s540x810/6c1b02c44e18dfbe8178244467661ecfe2f9cc90.pnj)
+<img width="1280" height="184" alt="image" src="https://github.com/user-attachments/assets/ffbdb2ee-dc29-40cf-8f53-c66790e3a295" />
 
 
 
