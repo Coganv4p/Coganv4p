@@ -22,9 +22,11 @@
 
 
 <p align="center">
-<img width="249" height="511" alt="Astarion2 (1)" src="https://github.com/user-attachments/assets/343809af-2adb-460c-ae33-530b52818d52" />
-<img width="249" height="511" alt="Astarion2 (2)" src="https://github.com/user-attachments/assets/9bddfd32-5584-46d7-a315-8352a095f819" />
-<img width="249" height="511" alt="Astarion2 (3)" src="https://github.com/user-attachments/assets/f3e88b75-2483-4818-ac83-d223941eaa69" />
+<img width="249" height="511" <img width="473" height="328" alt="alsoss" src="https://github.com/user-attachments/assets/7ddadbb4-76c5-4cce-be66-1d6434874122" />
+
+<img width="249" height="511" <img width="473" height="328" alt="gfhtj" src="https://github.com/user-attachments/assets/03f5e8e7-ce79-4591-85d1-e9218cf95bc9" />
+
+<img width="249" height="511" <img width="473" height="328" alt="THISSS" src="https://github.com/user-attachments/assets/72dca9dd-b964-436b-b96d-81db8913e1fe" />
 
 
 
