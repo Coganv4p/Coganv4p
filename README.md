@@ -26,8 +26,7 @@
 <img width="249" height="511" alt="Astarion2 (2)" src="https://github.com/user-attachments/assets/9bddfd32-5584-46d7-a315-8352a095f819" />
 <img width="249" height="511" alt="Astarion2 (3)" src="https://github.com/user-attachments/assets/f3e88b75-2483-4818-ac83-d223941eaa69" />
 
-  <p align="center">
-  <img width="597" height="444" alt="image" src="https://github.com/user-attachments/assets/194765c2-5ad7-4a50-a9b3-270a0ddf13ca" />
+
 
 
 
