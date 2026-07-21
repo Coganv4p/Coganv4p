@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9b5e5534-159c-4e63-8f3c-31bc87fb2b8e" />
+<img width="603" height="391" alt="tryuyi" src="https://github.com/user-attachments/assets/607b8a98-1dac-4333-9c63-28d92b12b81d" />
+
 
 
 
