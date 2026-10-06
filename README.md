@@ -20,7 +20,8 @@ He/Him ・ ISTP  ・  20yrs  ・
 
 
 <p align="center">
-<img width="570" height="350" alt="tyyi" src="https://github.com/user-attachments/assets/00993991-dc32-4f66-ba0d-b1d33cb98ac0" />
+<img width="570" height="350" alt="gfjk" src="https://github.com/user-attachments/assets/aa927570-5f30-45c4-b2bf-b1d15a011e41" />
+
 
 
 
