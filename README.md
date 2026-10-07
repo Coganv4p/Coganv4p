@@ -2,8 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=a19gs78cwsth81ekg7pcgm928&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=650619&bar_color_cover=false">
- 
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=a19gs78cwsth81ekg7pcgm928&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=570505&bar_color_cover=false">
+  </a>
+</p>
 
 <p align="center">
  ─────────────────── 𓆩༺☣︎༻𓆪 ────────────────── 
